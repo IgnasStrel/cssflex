@@ -1,0 +1,19 @@
+body{
+	font-family: 'Ranchers', cursive;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+.container {
+	display: flex;
+	background-color: red;
+}
+
+.container .mazas {
+	display: flex;
+	height: 150px;
+	width: 1px;
+	justify-content: center;
+	align-items: center;
+}
